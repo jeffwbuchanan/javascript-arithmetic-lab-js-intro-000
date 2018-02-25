@@ -35,6 +35,6 @@ return number;
 };
 
 function preserveDecimal(a,b){
-number = parseFloat('a');
+number = parseFloat('a.2');
 return number;
 }
